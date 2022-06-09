@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  rbac-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-09T13:04:38.676687879+02:00"
+    description: Charte helm utilisée pour deployer les roles manage pods et moniroting
+      pods
+    digest: e08a83166d884bb0c98fedc45ddc6bd2569ffb2e8dfe08bc46df3d3f18e85902
+    name: rbac-chart
+    type: application
+    urls:
+    - rbac-chart-0.2.1.tgz
+    version: 0.2.1
+generated: "2022-06-09T13:04:38.676226657+02:00"
