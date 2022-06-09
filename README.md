@@ -5,7 +5,7 @@ Toutes les commandes s’exécutent depuis la racine du projet
 
 Cette chart helm à pour fonction d'installer les roles suivants:
 * Manage pods
-* Moniroting pods
+* Monitoring pods
 
 ### Installation
 ```
